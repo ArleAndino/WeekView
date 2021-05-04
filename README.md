@@ -158,6 +158,9 @@ To do
 
 Changelog
 ---------
+**Version 1.2.7**
+
+* Update Android > 23
 
 **Version 1.2.6**
 
